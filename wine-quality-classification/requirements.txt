@@ -1,0 +1,6 @@
+# Adicione aqui as bibliotecas utilizadas no projeto
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
